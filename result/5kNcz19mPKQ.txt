@@ -1,0 +1,4 @@
+Dieser Mitschnitt basiert auf den von YouTube erstellten Subtitel-Daten.
+Das Skript findet sich unter https://github.com/NormanTUD/YoutubeTranscriber und ist frei verfügbar.
+
+00:00:04.020 --> 00:00:07.810  weiter  00:00:05.560 --> 00:00:10.750  timeslide by führe dich durch  00:00:07.810 --> 00:00:13.869  einstein oder nicht antoine selbst und  00:00:10.750 --> 00:00:17.969  im Gebet zumindest in unserem Gehirn Folie  00:00:13.869 --> 00:00:17.969  Jetzt eine nette Hallo Mama, mein Zahn ist einer  00:00:26.730 --> 00:00:28.820  nein

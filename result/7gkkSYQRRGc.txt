@@ -1,0 +1,4 @@
+Dieser Mitschnitt basiert auf den von YouTube erstellten Subtitel-Daten.
+Das Skript findet sich unter https://github.com/NormanTUD/YoutubeTranscriber und ist frei verfügbar.
+
+00:00:42.290 --> 00:00:44.800  Ich habe einen Glauben  00:00:52.420 --> 00:00:56.640  Ich habe meinen Sieg verloren  00:01:10.280 --> 00:01:12.280  und  00:01:17.110 --> 00:01:21.570  ok ist normal

@@ -1,0 +1,4 @@
+Dieser Mitschnitt basiert auf den von YouTube erstellten Subtitel-Daten.
+Das Skript findet sich unter https://github.com/NormanTUD/YoutubeTranscriber und ist frei verfügbar.
+
+00:00:11.260 --> 00:01:56.749  [Musik]  00:01:52.670 --> 00:01:56.749  [Beifall]  00:01:57.820 --> 00:02:00.270  [Musik]  00:01:58.570 --> 00:02:01.580  [Beifall]  00:02:00.270 --> 00:02:04.700  [Musik]  00:02:01.580 --> 00:02:04.700  [Beifall]  00:02:08.139 --> 00:02:15.770  [Musik]  00:02:26.820 --> 00:02:30.840  [Musik]  00:02:35.650 --> 00:04:30.740  [Musik]

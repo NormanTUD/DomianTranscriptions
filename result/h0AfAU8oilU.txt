@@ -1,0 +1,4 @@
+Dieser Mitschnitt basiert auf den von YouTube erstellten Subtitel-Daten.
+Das Skript findet sich unter https://github.com/NormanTUD/YoutubeTranscriber und ist frei verfügbar.
+
+00:00:01.000 --> 00:00:02.940  Zwei Füße - Momentum Ep  00:00:02.940 --> 00:00:05.100  Genießen!  00:00:07.100 --> 00:02:55.360  Zwei Füße - Liebe ist eine Hündin  00:03:00.480 --> 00:05:25.120  Zwei Fuß - Deine Mutter war billiger  00:05:34.720 --> 00:07:50.720  Zwei Fuß - hatte ein paar Getränke  00:07:56.160 --> 00:11:10.080  Zwei Füße - verdreht
